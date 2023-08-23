@@ -182,7 +182,7 @@ class Game {
 
 // ** Save original Player Data into a variable in order to reset **
 let p1 = new Player("Saboor", 100, 7)
-let p2 = new Player("Qazi", 100, 8);
+let p2 = new Player("Player 2", 100, 8);
 
 // ** Create the game object from the Game class **
 let game = new Game()
